@@ -10,7 +10,6 @@ Portfolio: Laravel
 
 Curso de Laravel | Nombre: Franco Vitale M. | franco.vitalematus@gmail.com
 
-Este repositorio incluye: Tópicos con ejemplos funcionales escritos en Laravel y su versión de PHP.
+Este repositorio incluye: API RESTful con Laravel, Desarrollo Back-End y Tópicos con ejemplos funcionales escritos en Laravel y su versión de PHP.
 
 JSON de configuración
-
