@@ -19,6 +19,6 @@ Este repositorio incluye: Desarrollo de un API RESTful con el framework laravel,
 
 JSON de configuración
 
-Portfolio: Laravel * Backend
+Portfolio: Laravel * Backend * API REST ful
 
 Curso de Laravel | Nombre: Franco Vitale Matus. | franco.vitalematus@gmail.com
