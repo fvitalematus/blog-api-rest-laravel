@@ -17,7 +17,7 @@ Este repositorio incluye: Desarrollo de un API RESTful con el framework laravel,
 - Sistema de Categorías: Guardar, actualizar, eliminar y mostrar categorías.
 - Sistema de Publicaciones: Guardar, actualizar, eliminar y mostrar publicaciones.
 
-JSON de configuración
+JSON de configuración | Full Backend
 
 Portfolio: Laravel * Backend * API REST ful
 
