@@ -21,4 +21,4 @@ JSON de configuración
 
 Portfolio: Laravel
 
-Curso de Laravel | Nombre: Franco Vitale M. | franco.vitalematus@gmail.com
+Curso de Laravel | Nombre: Franco Vitale Matus. | franco.vitalematus@gmail.com
